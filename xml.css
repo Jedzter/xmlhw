@@ -1,0 +1,22 @@
+
+body {
+background: url(https://i.pinimg.com/originals/c7/df/24/c7df244077a26d8ca42c1193284f3471.jpg) no-repeat top center;
+background-size: cover;
+}
+
+SONG {
+    display: block;
+    color: beige;
+}
+
+TITLE {
+display: block;
+font-size: 180%;
+font-weight: 500;
+}
+
+ARTIST {
+    display: block;
+    font-size: 120%;
+}
+

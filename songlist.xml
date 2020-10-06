@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<link href="xml.css" rel="stylesheet" type="text/css">
+
+<LIST>
+<SONG>
+<TITLE>How do you sleep?</TITLE>
+<ARTIST>Sam Smith</ARTIST>
+<GENRE>Pop</GENRE>
+<YEAR>2019</YEAR>
+</SONG>
+  _____________________________________________
+
+
+<SONG>
+<TITLE>Intentions</TITLE>
+<ARTIST>Justin Bieber ft. Quavo</ARTIST>
+<GENRE>Pop</GENRE>
+<YEAR>2020</YEAR>
+</SONG>
+    _____________________________________________
+
+
+<SONG>
+<TITLE>Beautiful People</TITLE>
+<ARTIST>Ed Sheeran ft. Khalid</ARTIST>
+<GENRE>Pop</GENRE>
+<YEAR>2019</YEAR>
+</SONG>
+  _____________________________________________
+
+
+<SONG>
+<TITLE>Sad Still</TITLE>
+<ARTIST>Quinn XCII</ARTIST>
+<GENRE>Pop</GENRE>
+<YEAR>2019</YEAR>
+</SONG>
+  _____________________________________________
+
+
+<SONG>
+<TITLE>Just Imagine It</TITLE>
+<ARTIST>MKTO</ARTIST>
+<GENRE>Pop</GENRE>
+<YEAR>2015</YEAR>
+</SONG>
+
+  _____________________________________________
+
+<SONG>
+<TITLE>Entertainer</TITLE>
+<ARTIST>ZAYN</ARTIST>
+<GENRE>Pop</GENRE>
+<YEAR>2017</YEAR>
+</SONG>
+
+  _____________________________________________
+
+<SONG>
+<TITLE>Lucid Dreams</TITLE>
+<ARTIST>Juice WRLD</ARTIST>
+<GENRE>Rap</GENRE>
+<YEAR>2018</YEAR>
+</SONG>
+  _____________________________________________
+
+<SONG>
+<TITLE>Level Up</TITLE>
+<ARTIST>Ciara</ARTIST>
+<GENRE>Pop</GENRE>
+<YEAR>2018</YEAR>
+</SONG>
+  _____________________________________________
+
+<SONG>
+<TITLE>Savage Love</TITLE>
+<ARTIST>Jason Derulo</ARTIST>
+<GENRE>Pop</GENRE>
+<YEAR>2020</YEAR>
+</SONG>
+  _____________________________________________
+
+<SONG>
+<TITLE>Savage</TITLE>
+<ARTIST>Megan Thee Stallion</ARTIST>
+<GENRE>Rap</GENRE>
+<YEAR>2020</YEAR>
+</SONG>
+</LIST>
